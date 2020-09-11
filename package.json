@@ -1,0 +1,23 @@
+{
+  "name": "computer-science",
+  "version": "1.0.0",
+  "description": "khan academy computer science",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charleserious/computer-science.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charleserious/computer-science/issues"
+  },
+  "homepage": "https://github.com/charleserious/computer-science#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
