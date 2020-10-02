@@ -10,6 +10,6 @@ describe('selectionSort', function () {
   it('should be [5, 8, 10, 19, 75, 87, 90]', function () {
     var array = [19, 8, 5, 75, 90, 87, 10];
     selectionSort(array);
-    expect(array).to.eql(array, [5, 8, 10, 19, 75, 87, 90]);
+    expect(array).to.eql([5, 8, 10, 19, 75, 87, 90]);
   });
 });
