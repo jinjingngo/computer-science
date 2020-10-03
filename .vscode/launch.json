@@ -7,7 +7,7 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Recursive Power",
+      "name": "Moch Test",
       "program": "${workspaceFolder}/node_modules/mocha/bin/_mocha",
       "args": [
         "--reporter",
