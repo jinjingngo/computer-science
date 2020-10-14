@@ -1,5 +1,4 @@
 const power = (x, n) => {
-  console.log(`Computing ${x} raised to power ${n}.`);
   // base case
   if (n === 0) return 1;
   // recursive case: n is negative
